@@ -1,0 +1,6 @@
+{
+  "name": "CampusGPT - Academic RAG & Document Intelligence Platform",
+  "description": "Enterprise-grade university document intelligence and RAG platform. Grounded question answering with strict page citations, question bank generation, and semantic vector exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
